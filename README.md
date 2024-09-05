@@ -25,7 +25,7 @@ Includes a loading spinner to indicate data fetching.
 
 ## Clone the repository:
 
-git clone https://github.com/yourusername/react-crud-app.git
+git clone https://github.com/Sachinnegi825/CRUD-App.git
 
 ## Navigate to the project directory
 
