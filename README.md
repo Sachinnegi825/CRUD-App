@@ -67,6 +67,14 @@ Each user has a "Delete User" button. Clicking it will remove the user from the 
 
 ## For Reference(Images)
 
+## Home Page
+
 ![Home Page](./src/assets/home.png)
+
+## Create User Page
+
 ![Create User Page](./src/assets/CreateUser.png)
+
+## Update User Page
+
 ![Update User Page](./src/assets/update.png)
